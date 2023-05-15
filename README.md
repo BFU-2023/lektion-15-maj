@@ -14,4 +14,4 @@ Introduktion till JavaScript
 ### Vimeo-länk:
 * []()
 ### Veckans övning:
-[]()
+[Kortleken](https://github.com/BFU-2023/Kortleken)
